@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Car wash",
+		"message_id": "CK_NO_SP_001",
+		"creative_id": 10001,
+		"created": "09/24/2022",
+		"display_count": 20,
+		"offer_type": "Fall",
+		"status": "offline"
+	},
+	{
+		"name": "Car wash #2",
+		"message_id": "CK_NO_SP_002",
+		"creative_id": 10002,
+		"created": "09/24/2022",
+		"display_count": 55,
+		"offer_type": "Fall",
+		"status": "offline"
+	},
+	{
+		"name": "Easy fuel",
+		"message_id": "CK_NO_SP_003",
+		"creative_id": 10003,
+		"created": "10/05/2022",
+		"display_count": 15,
+		"offer_type": "Winter",
+		"status": "online"
+	},
+	{
+		"name": "Easy fuel - Fullscreen",
+		"message_id": "CK_NO_SP_004",
+		"creative_id": 10004,
+		"created": "10/10/2022",
+		"display_count": 89,
+		"offer_type": "Winter",
+		"status": "online"
+	},
+	{
+		"name": "Charging stations",
+		"message_id": "CK_NO_SP_005",
+		"creative_id": 10005,
+		"created": "10/10/2022",
+		"display_count": 44,
+		"offer_type": "-",
+		"status": "online"
+	},
+	{
+		"name": "Charge up",
+		"message_id": "CK_NO_SP_006",
+		"creative_id": 10006,
+		"created": "11/10/2022",
+		"display_count": 23,
+		"offer_type": "-",
+		"status": "online"
+	},
+	{
+		"name": "Charging stations",
+		"message_id": "CK_NO_SP_007",
+		"creative_id": 10007,
+		"created": "12/20/2022",
+		"display_count": 70,
+		"offer_type": "Summer",
+		"status": "online"
+	}
+]
